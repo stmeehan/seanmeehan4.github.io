@@ -1,0 +1,84 @@
+
+h1{
+	color: White;
+	font-size: 25 px;
+	font-family: "Ariel";
+	position: absolute; top: 0px; left: 500px;
+	 }
+	 
+h2{
+	color:SlateGrey;
+	font-size: 40px;
+	position: absolute; top: 630px; left: 660px;
+	}
+		 
+.image_resize{
+	width: 400px;
+	height:400px;
+	border-radius: 50%;;
+	}
+
+.image_resize1{
+	width: 580px;
+	height:310px;
+	border-radius: 50%;
+	border-style: solid;
+	border-width: 5 px;
+	border_color: black;
+	}
+
+#img1{
+	position: absolute; top: 170px; left: 50px;
+	
+	}
+
+#img2{
+	position: absolute; top: 400px; left: 920px;
+	
+	}
+	
+#img3{
+	position: absolute; top: 770px; left: 50px;
+	
+	}
+	
+#img4{
+	position: absolute; top: 1050px; left: 830px;
+	
+	}
+	
+#desire{
+	position: absolute; top: 120px; left: 220px;
+	font-size: 25px;
+	color: White;
+	font-style: bold; 
+	}	
+	
+#humility{
+	position: absolute; top: 353px; left: 1070px;
+	font-size: 25px;
+	color: White;
+	font-style: bold; 
+	}
+
+#knowledge{
+	position: absolute; top: 720px; left: 190px;
+	font-size: 25px;
+	 color: White;
+	font-style: bold;
+	}	
+
+#perspective{
+	position: absolute; top: 1000px; left: 1062px;
+	font-size: 25px;
+	 color: White;
+	font-style: bold;
+	}	
+	
+#audio{
+	position: absolute; top: 20px; left: 1100px;
+	}
+	
+body{
+	background-color: IndianRed;
+	}
